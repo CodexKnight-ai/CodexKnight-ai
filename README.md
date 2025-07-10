@@ -39,7 +39,7 @@
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=codexknight-ai&show_icons=true&theme=neutral&locale=en" alt="GitHub Stats" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=codexknight-ai&show_icons=true&theme=neutral&layout=compact&locale=en" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodexKnight-ai&theme=github-dark" alt="GitHub Streak" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codexknight-ai&theme=github-dark" alt="GitHub Streak" height="160"/>
 </p>
 
 <h3 align="left">Competitive Programming:</h3>
