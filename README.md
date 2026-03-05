@@ -33,11 +33,18 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
 </p>
 
-<h3 align="left">GitHub Contributions:</h3>
+<!-- <h3 align="left">GitHub Contributions:</h3>
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=codexknight-ai&show_icons=true&theme=neutral&locale=en" alt="GitHub Stats" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=codexknight-ai&show_icons=true&theme=neutral&layout=compact&locale=en" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=codexknight-ai&theme=github-dark" alt="GitHub Streak" height="160"/>
+</p> -->
+&nbsp;![](https://komarev.com/ghpvc/?username=codexknight-ai&color=brightgreen)
+<p align="center">
+<img
+  src="https://github-statspro.vercel.app/api/stats/codexknight-ai?theme=default"
+  alt="Stats Card"
+/>
 </p>
 
 <h3 align="left">Competitive Programming:</h3>
