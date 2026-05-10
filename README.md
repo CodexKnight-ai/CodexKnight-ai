@@ -121,6 +121,10 @@
 </p>
 
 ---
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Codexknight-ai&theme=onedark&column=4" alt="Trophies" />
+</p>
 
 ## GitHub Stats
 
