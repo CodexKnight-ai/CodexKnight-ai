@@ -3,7 +3,7 @@
 <h3 align="center">
   Full-Stack Developer | Backend-Focused Engineer | B.Tech CSE @ Ahmedabad University (2027)
 </h3>
-
+<div display="flex" justify-content="space-between">
 <p align="center">
   <img 
     src="https://camo.githubusercontent.com/62cf3b1249cb16e770ea25bb3e7a12925f50065e8aa4bd0b26e805b2a10b7689/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"
@@ -11,6 +11,10 @@
     width="400"
   />
 </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Codexknight-ai&theme=onedark&column=4" alt="Trophies" />
+</p>
+</div>
 
 ---
 
@@ -33,6 +37,10 @@
 - Email:  
   <a href="mailto:jainsubrat2024@gmail.com">
     jainsubrat2024@gmail.com
+  </a>
+- Resume:  
+  <a href="https://drive.google.com/drive/u/2/folders/1OtR6syeAheSLOPyL3NA0WPIGpqzbGfT4">
+    Resume
   </a>
 
 ---
@@ -121,10 +129,8 @@
 </p>
 
 ---
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Codexknight-ai&theme=onedark&column=4" alt="Trophies" />
-</p>
+
+
 
 ## GitHub Stats
 
